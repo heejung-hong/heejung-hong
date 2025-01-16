@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on TDM Calculator at Hack for LA
-- 🌱 I’m currently learning React and Tailwind.
+- 🌱 I’m currently practicing React and Tailwind.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/heejung-hong/)
 - ⚡ Fun fact: I'm an avid knitter/crocheter.
